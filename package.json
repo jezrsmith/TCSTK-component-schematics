@@ -9,8 +9,8 @@
   },
   "schematics": "./src/collection.json",
   "devDependencies": {
-    "@angular-devkit/core": "^8.1.2",
-    "@angular-devkit/schematics": "^8.1.2",
+    "@angular-devkit/core": "^8.3.2",
+    "@angular-devkit/schematics": "^8.3.2",
     "@types/node": "^8.0.31",
     "typescript": "^3.4.5"
   },
